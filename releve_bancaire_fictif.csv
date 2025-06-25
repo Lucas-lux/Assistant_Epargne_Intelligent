@@ -1,0 +1,430 @@
+date,description,montant,categorie,annee,mois,mois_nom,jour_semaine,semaine,trimestre,type_transaction
+2023-01-02,UNIQLO LYON,-218.08,Shopping,2023,1,January,Monday,1,1,Débit
+2023-01-08,OPTICIEN KRYS,-100.97,Santé,2023,1,January,Sunday,1,1,Débit
+2023-01-09,LIDL MARKET MARSEILLE,-119.98,Courses,2023,1,January,Monday,2,1,Débit
+2023-01-13,EDF ENERGIE,-36.91,Abonnements,2023,1,January,Friday,2,1,Débit
+2023-01-17,CARREFOUR CITY PARIS,-91.24,Courses,2023,1,January,Tuesday,3,1,Débit
+2023-01-19,NETFLIX.COM,-44.76,Abonnements,2023,1,January,Thursday,3,1,Débit
+2023-01-20,UBER,-11.99,Transport,2023,1,January,Friday,3,1,Débit
+2023-01-22,SNCF CONNECT,-35.23,Transport,2023,1,January,Sunday,3,1,Débit
+2023-01-28,VIREMENT SALAIRE ENTREPRISE,2894.4388257668465,Revenus,2023,1,January,Saturday,4,1,Crédit
+2023-01-30,LABORATOIRE ANALYSES,-96.28,Santé,2023,1,January,Monday,5,1,Débit
+2023-01-31,OPTICIEN KRYS PARIS,-118.79,Santé,2023,1,January,Tuesday,5,1,Débit
+2023-02-01,EDF ENERGIE PARIS,-18.8,Abonnements,2023,2,February,Wednesday,5,1,Débit
+2023-02-03,OPTICIEN KRYS,-83.78,Santé,2023,2,February,Friday,5,1,Débit
+2023-02-09,BISTROT PARISIEN,-10.45,Restaurants,2023,2,February,Thursday,6,1,Débit
+2023-02-10,AMAZON.FR,-21.02,Shopping,2023,2,February,Friday,6,1,Débit
+2023-02-12,CENTURY 21 LOYER,-1199.98,Loyer,2023,2,February,Sunday,6,1,Débit
+2023-02-13,DISNEY PLUS,-46.29,Abonnements,2023,2,February,Monday,7,1,Débit
+2023-02-15,TICKET RATP,-12.38,Transport,2023,2,February,Wednesday,7,1,Débit
+2023-02-16,MONOPRIX PARIS,-117.05,Courses,2023,2,February,Thursday,7,1,Débit
+2023-02-17,TICKET RATP,-22.36,Transport,2023,2,February,Friday,7,1,Débit
+2023-02-18,PHARMACIE LAFAYETTE,-61.87,Santé,2023,2,February,Saturday,7,1,Débit
+2023-02-19,LIDL MARKET,-15.46,Courses,2023,2,February,Sunday,7,1,Débit
+2023-02-19,PARKING INDIGO LYON,-5.82,Transport,2023,2,February,Sunday,7,1,Débit
+2023-02-19,FONCIA TRANSACTION PARIS,-1040.41,Loyer,2023,2,February,Sunday,7,1,Débit
+2023-02-26,FREE MOBILE,-14.28,Abonnements,2023,2,February,Sunday,8,1,Débit
+2023-02-26,CENTURY 21 LOYER,-706.51,Loyer,2023,2,February,Sunday,8,1,Débit
+2023-02-27,DECATHLON,-68.06,Shopping,2023,2,February,Monday,9,1,Débit
+2023-02-27,EDF ENERGIE MARSEILLE,-45.83,Abonnements,2023,2,February,Monday,9,1,Débit
+2023-02-28,VIREMENT SALAIRE ENTREPRISE,2909.3298054556744,Revenus,2023,2,February,Tuesday,9,1,Crédit
+2023-03-02,PICARD SURGELES,-65.35,Courses,2023,3,March,Thursday,9,1,Débit
+2023-03-05,BOULANGERIE PAUL,-9.91,Restaurants,2023,3,March,Sunday,9,1,Débit
+2023-03-07,NETFLIX.COM PARIS,-38.26,Abonnements,2023,3,March,Tuesday,10,1,Débit
+2023-03-07,FONCIA TRANSACTION,-1119.73,Loyer,2023,3,March,Tuesday,10,1,Débit
+2023-03-08,FRANPRIX,-50.43,Courses,2023,3,March,Wednesday,10,1,Débit
+2023-03-10,MONOPRIX,-23.03,Courses,2023,3,March,Friday,10,1,Débit
+2023-03-12,ORANGE MOBILE LYON,-10.75,Abonnements,2023,3,March,Sunday,10,1,Débit
+2023-03-14,PASS NAVIGO,-33.59,Transport,2023,3,March,Tuesday,11,1,Débit
+2023-03-14,SPOTIFY AB MARSEILLE,-21.99,Abonnements,2023,3,March,Tuesday,11,1,Débit
+2023-03-15,SNCF CONNECT PARIS,-46.4,Transport,2023,3,March,Wednesday,11,1,Débit
+2023-03-19,LECLERC,-111.58,Courses,2023,3,March,Sunday,11,1,Débit
+2023-03-21,FRANPRIX,-78.55,Courses,2023,3,March,Tuesday,12,1,Débit
+2023-03-21,GALERIES LAFAYETTE,-241.72,Shopping,2023,3,March,Tuesday,12,1,Débit
+2023-03-23,NEXITY LOYER,-1111.27,Loyer,2023,3,March,Thursday,12,1,Débit
+2023-03-24,OPTICIEN KRYS,-121.39,Santé,2023,3,March,Friday,12,1,Débit
+2023-03-24,DENTISTE DR MARTIN,-139.19,Santé,2023,3,March,Friday,12,1,Débit
+2023-03-25,FONCIA TRANSACTION,-1159.46,Loyer,2023,3,March,Saturday,12,1,Débit
+2023-03-30,VIREMENT SALAIRE ENTREPRISE,3027.3728978741246,Revenus,2023,3,March,Thursday,13,1,Crédit
+2023-03-30,UBER,-24.6,Transport,2023,3,March,Thursday,13,1,Débit
+2023-04-01,MUSEE DU LOUVRE LYON,-57.79,Loisirs,2023,4,April,Saturday,13,2,Débit
+2023-04-01,CABINET MEDICAL,-70.23,Santé,2023,4,April,Saturday,13,2,Débit
+2023-04-04,FONCIA TRANSACTION,-1130.4,Loyer,2023,4,April,Tuesday,14,2,Débit
+2023-04-04,AMAZON.FR LYON,-105.23,Shopping,2023,4,April,Tuesday,14,2,Débit
+2023-04-13,NEXITY LOYER,-712.01,Loyer,2023,4,April,Thursday,15,2,Débit
+2023-04-15,PIZZA HUT,-10.57,Restaurants,2023,4,April,Saturday,15,2,Débit
+2023-04-16,FNAC SPECTACLES PARIS,-60.77,Shopping,2023,4,April,Sunday,15,2,Débit
+2023-04-17,PARC ASTERIX,-36.73,Loisirs,2023,4,April,Monday,16,2,Débit
+2023-04-18,NETFLIX.COM PARIS,-31.67,Abonnements,2023,4,April,Tuesday,16,2,Débit
+2023-04-21,ORPI GESTION LOYER,-702.58,Loyer,2023,4,April,Friday,16,2,Débit
+2023-04-28,VIREMENT SALAIRE ENTREPRISE,3164.870873781397,Revenus,2023,4,April,Friday,17,2,Crédit
+2023-05-02,FREE MOBILE,-34.67,Abonnements,2023,5,May,Tuesday,18,2,Débit
+2023-05-07,FRANPRIX LYON,-97.53,Courses,2023,5,May,Sunday,18,2,Débit
+2023-05-07,MCDONALDS,-59.0,Restaurants,2023,5,May,Sunday,18,2,Débit
+2023-05-07,THEATRE CHATELET,-79.11,Loisirs,2023,5,May,Sunday,18,2,Débit
+2023-05-08,FONCIA TRANSACTION LYON,-1194.51,Loyer,2023,5,May,Monday,19,2,Débit
+2023-05-08,DECATHLON LYON,-236.26,Shopping,2023,5,May,Monday,19,2,Débit
+2023-05-10,UNIQLO,-203.88,Shopping,2023,5,May,Wednesday,19,2,Débit
+2023-05-12,BOULANGERIE PAUL MARSEILLE,-28.35,Restaurants,2023,5,May,Friday,19,2,Débit
+2023-05-14,CABINET MEDICAL,-112.46,Santé,2023,5,May,Sunday,19,2,Débit
+2023-05-15,ORANGE MOBILE MARSEILLE,-40.08,Abonnements,2023,5,May,Monday,20,2,Débit
+2023-05-15,LIDL MARKET,-68.13,Courses,2023,5,May,Monday,20,2,Débit
+2023-05-18,NETFLIX.COM,-24.94,Abonnements,2023,5,May,Thursday,20,2,Débit
+2023-05-19,ZARA,-132.96,Shopping,2023,5,May,Friday,20,2,Débit
+2023-05-21,PASS NAVIGO PARIS,-12.94,Transport,2023,5,May,Sunday,20,2,Débit
+2023-05-21,ORANGE MOBILE,-31.9,Abonnements,2023,5,May,Sunday,20,2,Débit
+2023-05-23,PASS NAVIGO,-17.06,Transport,2023,5,May,Tuesday,21,2,Débit
+2023-05-23,NETFLIX.COM,-42.1,Abonnements,2023,5,May,Tuesday,21,2,Débit
+2023-05-24,DENTISTE DR MARTIN,-89.27,Santé,2023,5,May,Wednesday,21,2,Débit
+2023-05-27,EDF ENERGIE,-16.01,Abonnements,2023,5,May,Saturday,21,2,Débit
+2023-05-29,NEXITY LOYER MARSEILLE,-875.83,Loyer,2023,5,May,Monday,22,2,Débit
+2023-05-29,LIDL MARKET LYON,-67.42,Courses,2023,5,May,Monday,22,2,Débit
+2023-05-30,VIREMENT SALAIRE ENTREPRISE,2932.601346708925,Revenus,2023,5,May,Tuesday,22,2,Crédit
+2023-05-31,ORPI GESTION LOYER PARIS,-852.25,Loyer,2023,5,May,Wednesday,22,2,Débit
+2023-05-31,UBER,-24.79,Transport,2023,5,May,Wednesday,22,2,Débit
+2023-06-01,AUCHAN,-110.87,Courses,2023,6,June,Thursday,22,2,Débit
+2023-06-01,RESTO ASIAT,-18.88,Restaurants,2023,6,June,Thursday,22,2,Débit
+2023-06-02,SPOTIFY AB,-22.83,Abonnements,2023,6,June,Friday,22,2,Débit
+2023-06-02,FNAC SPECTACLES PARIS,-65.74,Shopping,2023,6,June,Friday,22,2,Débit
+2023-06-02,FONCIA TRANSACTION PARIS,-890.66,Loyer,2023,6,June,Friday,22,2,Débit
+2023-06-06,RESTO ASIAT LYON,-16.2,Restaurants,2023,6,June,Tuesday,23,2,Débit
+2023-06-06,FONCIA TRANSACTION PARIS,-1109.04,Loyer,2023,6,June,Tuesday,23,2,Débit
+2023-06-09,MONOPRIX,-20.17,Courses,2023,6,June,Friday,23,2,Débit
+2023-06-17,BOULANGERIE PAUL LYON,-28.06,Restaurants,2023,6,June,Saturday,24,2,Débit
+2023-06-19,BOULANGERIE PAUL LYON,-23.81,Restaurants,2023,6,June,Monday,25,2,Débit
+2023-06-20,ORPI GESTION LOYER,-1080.0,Loyer,2023,6,June,Tuesday,25,2,Débit
+2023-06-20,FNAC SPECTACLES,-31.27,Shopping,2023,6,June,Tuesday,25,2,Débit
+2023-06-25,BURGER KING,-20.56,Restaurants,2023,6,June,Sunday,25,2,Débit
+2023-06-29,VIREMENT SALAIRE ENTREPRISE,3202.220817363051,Revenus,2023,6,June,Thursday,26,2,Crédit
+2023-07-04,UBER,-30.38,Transport,2023,7,July,Tuesday,27,3,Débit
+2023-07-08,AMAZON.FR MARSEILLE,-51.63,Shopping,2023,7,July,Saturday,27,3,Débit
+2023-07-12,SNCF CONNECT,-29.58,Transport,2023,7,July,Wednesday,28,3,Débit
+2023-07-19,CARREFOUR CITY PARIS,-92.89,Courses,2023,7,July,Wednesday,29,3,Débit
+2023-07-29,VIREMENT SALAIRE ENTREPRISE,2877.327852668763,Revenus,2023,7,July,Saturday,30,3,Crédit
+2023-07-30,BISTROT PARISIEN PARIS,-12.55,Restaurants,2023,7,July,Sunday,30,3,Débit
+2023-07-30,GALERIES LAFAYETTE,-62.75,Shopping,2023,7,July,Sunday,30,3,Débit
+2023-08-01,CAFE DE FLORE,-44.42,Restaurants,2023,8,August,Tuesday,31,3,Débit
+2023-08-04,BISTROT PARISIEN,-33.69,Restaurants,2023,8,August,Friday,31,3,Débit
+2023-08-15,MONOPRIX PARIS,-66.35,Courses,2023,8,August,Tuesday,33,3,Débit
+2023-08-17,FONCIA TRANSACTION,-785.93,Loyer,2023,8,August,Thursday,33,3,Débit
+2023-08-17,AMAZON PRIME PARIS,-49.41,Abonnements,2023,8,August,Thursday,33,3,Débit
+2023-08-18,ORPI GESTION LOYER MARSEILLE,-705.62,Loyer,2023,8,August,Friday,33,3,Débit
+2023-08-19,AMAZON PRIME,-30.82,Abonnements,2023,8,August,Saturday,33,3,Débit
+2023-08-23,CINEMA GAUMONT,-29.65,Loisirs,2023,8,August,Wednesday,34,3,Débit
+2023-08-24,CAFE DE FLORE,-25.4,Restaurants,2023,8,August,Thursday,34,3,Débit
+2023-08-26,CENTURY 21 LOYER,-957.99,Loyer,2023,8,August,Saturday,34,3,Débit
+2023-08-27,RESTO ASIAT,-57.32,Restaurants,2023,8,August,Sunday,34,3,Débit
+2023-08-29,VIREMENT SALAIRE ENTREPRISE,3183.030117866179,Revenus,2023,8,August,Tuesday,35,3,Crédit
+2023-08-29,DISNEY PLUS,-19.82,Abonnements,2023,8,August,Tuesday,35,3,Débit
+2023-08-29,LABORATOIRE ANALYSES MARSEILLE,-40.31,Santé,2023,8,August,Tuesday,35,3,Débit
+2023-08-30,RESTO ASIAT,-9.51,Restaurants,2023,8,August,Wednesday,35,3,Débit
+2023-08-30,NEXITY LOYER PARIS,-1100.23,Loyer,2023,8,August,Wednesday,35,3,Débit
+2023-08-30,VELIB METROPOLE,-32.97,Transport,2023,8,August,Wednesday,35,3,Débit
+2023-09-01,FRANPRIX,-76.67,Courses,2023,9,September,Friday,35,3,Débit
+2023-09-04,UBER,-29.83,Transport,2023,9,September,Monday,36,3,Débit
+2023-09-04,LIDL MARKET,-21.22,Courses,2023,9,September,Monday,36,3,Débit
+2023-09-05,OPTICIEN KRYS,-50.8,Santé,2023,9,September,Tuesday,36,3,Débit
+2023-09-07,MONOPRIX,-110.28,Courses,2023,9,September,Thursday,36,3,Débit
+2023-09-09,OPTICIEN KRYS LYON,-43.26,Santé,2023,9,September,Saturday,36,3,Débit
+2023-09-15,PASS NAVIGO LYON,-35.83,Transport,2023,9,September,Friday,37,3,Débit
+2023-09-16,PIZZA HUT LYON,-21.93,Restaurants,2023,9,September,Saturday,37,3,Débit
+2023-09-17,EDF ENERGIE PARIS,-40.59,Abonnements,2023,9,September,Sunday,37,3,Débit
+2023-09-18,LECLERC PARIS,-31.24,Courses,2023,9,September,Monday,38,3,Débit
+2023-09-19,SEPHORA,-237.42,Shopping,2023,9,September,Tuesday,38,3,Débit
+2023-09-21,NEXITY LOYER,-1161.97,Loyer,2023,9,September,Thursday,38,3,Débit
+2023-09-27,CINEMA GAUMONT,-77.75,Loisirs,2023,9,September,Wednesday,39,3,Débit
+2023-09-29,VIREMENT SALAIRE ENTREPRISE,3208.018778114556,Revenus,2023,9,September,Friday,39,3,Crédit
+2023-09-30,NEXITY LOYER,-1081.0,Loyer,2023,9,September,Saturday,39,3,Débit
+2023-10-01,MCDONALDS,-42.27,Restaurants,2023,10,October,Sunday,39,4,Débit
+2023-10-01,TICKET RATP,-35.69,Transport,2023,10,October,Sunday,39,4,Débit
+2023-10-02,EDF ENERGIE LYON,-26.75,Abonnements,2023,10,October,Monday,40,4,Débit
+2023-10-04,STATION ESSENCE MARSEILLE,-17.49,Transport,2023,10,October,Wednesday,40,4,Débit
+2023-10-05,UBER MARSEILLE,-32.88,Transport,2023,10,October,Thursday,40,4,Débit
+2023-10-05,UNIQLO,-147.67,Shopping,2023,10,October,Thursday,40,4,Débit
+2023-10-06,EDF ENERGIE LYON,-14.55,Abonnements,2023,10,October,Friday,40,4,Débit
+2023-10-06,PARKING INDIGO,-39.5,Transport,2023,10,October,Friday,40,4,Débit
+2023-10-09,GALERIES LAFAYETTE,-122.74,Shopping,2023,10,October,Monday,41,4,Débit
+2023-10-12,PARC ASTERIX,-76.18,Loisirs,2023,10,October,Thursday,41,4,Débit
+2023-10-12,SPOTIFY AB LYON,-31.69,Abonnements,2023,10,October,Thursday,41,4,Débit
+2023-10-14,CENTURY 21 LOYER,-962.2,Loyer,2023,10,October,Saturday,41,4,Débit
+2023-10-16,ORANGE MOBILE,-47.89,Abonnements,2023,10,October,Monday,42,4,Débit
+2023-10-16,LIDL MARKET LYON,-42.9,Courses,2023,10,October,Monday,42,4,Débit
+2023-10-17,SEPHORA MARSEILLE,-29.95,Shopping,2023,10,October,Tuesday,42,4,Débit
+2023-10-19,DENTISTE DR MARTIN,-126.46,Santé,2023,10,October,Thursday,42,4,Débit
+2023-10-23,MONOPRIX,-66.59,Courses,2023,10,October,Monday,43,4,Débit
+2023-10-25,CARREFOUR CITY PARIS,-115.48,Courses,2023,10,October,Wednesday,43,4,Débit
+2023-10-27,ORPI GESTION LOYER PARIS,-935.08,Loyer,2023,10,October,Friday,43,4,Débit
+2023-10-29,VIREMENT SALAIRE ENTREPRISE,2853.588547582237,Revenus,2023,10,October,Sunday,43,4,Crédit
+2023-10-30,BOULANGERIE PAUL LYON,-59.12,Restaurants,2023,10,October,Monday,44,4,Débit
+2023-10-31,CENTURY 21 LOYER PARIS,-778.32,Loyer,2023,10,October,Tuesday,44,4,Débit
+2023-11-02,BAR LE PROGRES,-54.33,Loisirs,2023,11,November,Thursday,44,4,Débit
+2023-11-02,PARC ASTERIX PARIS,-75.59,Loisirs,2023,11,November,Thursday,44,4,Débit
+2023-11-02,CINEMA GAUMONT PARIS,-56.42,Loisirs,2023,11,November,Thursday,44,4,Débit
+2023-11-06,BURGER KING MARSEILLE,-11.11,Restaurants,2023,11,November,Monday,45,4,Débit
+2023-11-06,FONCIA TRANSACTION,-1022.0,Loyer,2023,11,November,Monday,45,4,Débit
+2023-11-07,DENTISTE DR MARTIN,-149.62,Santé,2023,11,November,Tuesday,45,4,Débit
+2023-11-08,DECATHLON,-180.63,Shopping,2023,11,November,Wednesday,45,4,Débit
+2023-11-09,FREE MOBILE,-24.4,Abonnements,2023,11,November,Thursday,45,4,Débit
+2023-11-22,AMAZON PRIME LYON,-39.7,Abonnements,2023,11,November,Wednesday,47,4,Débit
+2023-11-23,LIDL MARKET LYON,-30.45,Courses,2023,11,November,Thursday,47,4,Débit
+2023-11-28,VIREMENT SALAIRE ENTREPRISE,3218.4083502324097,Revenus,2023,11,November,Tuesday,48,4,Crédit
+2023-11-29,SNCF CONNECT,-49.23,Transport,2023,11,November,Wednesday,48,4,Débit
+2023-12-03,ORANGE MOBILE PARIS,-42.92,Abonnements,2023,12,December,Sunday,48,4,Débit
+2023-12-09,MCDONALDS PARIS,-52.84,Restaurants,2023,12,December,Saturday,49,4,Débit
+2023-12-22,AMAZON PRIME,-34.97,Abonnements,2023,12,December,Friday,51,4,Débit
+2023-12-22,MCDONALDS,-36.29,Restaurants,2023,12,December,Friday,51,4,Débit
+2023-12-24,SUPER U PARIS,-73.6,Courses,2023,12,December,Sunday,51,4,Débit
+2023-12-25,PARKING INDIGO,-8.74,Transport,2023,12,December,Monday,52,4,Débit
+2023-12-25,LECLERC PARIS,-86.34,Courses,2023,12,December,Monday,52,4,Débit
+2023-12-25,PARC ASTERIX,-20.0,Loisirs,2023,12,December,Monday,52,4,Débit
+2023-12-28,FRANPRIX,-83.27,Courses,2023,12,December,Thursday,52,4,Débit
+2023-12-30,VIREMENT SALAIRE ENTREPRISE,2891.34136021716,Revenus,2023,12,December,Saturday,52,4,Crédit
+2024-01-01,LIDL MARKET,-116.41,Courses,2024,1,January,Monday,1,1,Débit
+2024-01-04,RESTO ASIAT,-12.51,Restaurants,2024,1,January,Thursday,1,1,Débit
+2024-01-08,TICKET RATP LYON,-40.81,Transport,2024,1,January,Monday,2,1,Débit
+2024-01-13,PIZZA HUT,-36.15,Restaurants,2024,1,January,Saturday,2,1,Débit
+2024-01-13,CENTURY 21 LOYER,-1054.36,Loyer,2024,1,January,Saturday,2,1,Débit
+2024-01-15,AMAZON PRIME,-45.42,Abonnements,2024,1,January,Monday,3,1,Débit
+2024-01-20,RESTO ASIAT,-33.1,Restaurants,2024,1,January,Saturday,3,1,Débit
+2024-01-20,FONCIA TRANSACTION,-1088.88,Loyer,2024,1,January,Saturday,3,1,Débit
+2024-01-23,PARKING INDIGO,-40.68,Transport,2024,1,January,Tuesday,4,1,Débit
+2024-01-23,PIZZA HUT,-46.06,Restaurants,2024,1,January,Tuesday,4,1,Débit
+2024-01-23,SPOTIFY AB,-48.16,Abonnements,2024,1,January,Tuesday,4,1,Débit
+2024-01-28,VIREMENT SALAIRE ENTREPRISE,3230.8494322864767,Revenus,2024,1,January,Sunday,4,1,Crédit
+2024-01-29,MCDONALDS PARIS,-32.53,Restaurants,2024,1,January,Monday,5,1,Débit
+2024-01-31,PARC ASTERIX,-19.8,Loisirs,2024,1,January,Wednesday,5,1,Débit
+2024-02-01,NEXITY LOYER MARSEILLE,-1021.33,Loyer,2024,2,February,Thursday,5,1,Débit
+2024-02-01,AUCHAN,-40.89,Courses,2024,2,February,Thursday,5,1,Débit
+2024-02-02,PHARMACIE LAFAYETTE,-24.68,Santé,2024,2,February,Friday,5,1,Débit
+2024-02-07,SPOTIFY AB,-48.61,Abonnements,2024,2,February,Wednesday,6,1,Débit
+2024-02-07,H&M MARSEILLE,-27.63,Shopping,2024,2,February,Wednesday,6,1,Débit
+2024-02-08,UBER,-13.19,Transport,2024,2,February,Thursday,6,1,Débit
+2024-02-10,PIZZA HUT,-39.98,Restaurants,2024,2,February,Saturday,6,1,Débit
+2024-02-12,RESTO ASIAT,-9.62,Restaurants,2024,2,February,Monday,7,1,Débit
+2024-02-14,PARC ASTERIX,-46.42,Loisirs,2024,2,February,Wednesday,7,1,Débit
+2024-02-15,SUPER U PARIS MARSEILLE,-65.38,Courses,2024,2,February,Thursday,7,1,Débit
+2024-02-21,SEPHORA,-42.13,Shopping,2024,2,February,Wednesday,8,1,Débit
+2024-02-22,CINEMA GAUMONT,-68.61,Loisirs,2024,2,February,Thursday,8,1,Débit
+2024-02-22,BAR LE PROGRES,-13.1,Loisirs,2024,2,February,Thursday,8,1,Débit
+2024-02-25,UBER,-15.78,Transport,2024,2,February,Sunday,8,1,Débit
+2024-02-26,AMAZON PRIME,-32.64,Abonnements,2024,2,February,Monday,9,1,Débit
+2024-02-28,PICARD SURGELES LYON,-39.06,Courses,2024,2,February,Wednesday,9,1,Débit
+2024-02-28,VIREMENT SALAIRE ENTREPRISE,3214.210165487822,Revenus,2024,2,February,Wednesday,9,1,Crédit
+2024-03-01,BOULANGERIE PAUL,-42.33,Restaurants,2024,3,March,Friday,9,1,Débit
+2024-03-05,MCDONALDS LYON,-48.28,Restaurants,2024,3,March,Tuesday,10,1,Débit
+2024-03-07,CABINET MEDICAL MARSEILLE,-109.78,Santé,2024,3,March,Thursday,10,1,Débit
+2024-03-08,SPOTIFY AB,-43.27,Abonnements,2024,3,March,Friday,10,1,Débit
+2024-03-09,PARKING INDIGO MARSEILLE,-42.55,Transport,2024,3,March,Saturday,10,1,Débit
+2024-03-14,BURGER KING,-56.22,Restaurants,2024,3,March,Thursday,11,1,Débit
+2024-03-14,RESTO ASIAT,-35.67,Restaurants,2024,3,March,Thursday,11,1,Débit
+2024-03-15,H&M,-128.27,Shopping,2024,3,March,Friday,11,1,Débit
+2024-03-20,UBER,-20.6,Transport,2024,3,March,Wednesday,12,1,Débit
+2024-03-21,LECLERC,-111.76,Courses,2024,3,March,Thursday,12,1,Débit
+2024-03-24,UNIQLO,-68.95,Shopping,2024,3,March,Sunday,12,1,Débit
+2024-03-25,AMAZON PRIME MARSEILLE,-39.29,Abonnements,2024,3,March,Monday,13,1,Débit
+2024-03-25,H&M,-177.48,Shopping,2024,3,March,Monday,13,1,Débit
+2024-03-26,CENTURY 21 LOYER,-1152.65,Loyer,2024,3,March,Tuesday,13,1,Débit
+2024-03-27,DISNEY PLUS,-18.32,Abonnements,2024,3,March,Wednesday,13,1,Débit
+2024-03-30,VIREMENT SALAIRE ENTREPRISE,2808.0717695980948,Revenus,2024,3,March,Saturday,13,1,Crédit
+2024-03-31,FONCIA TRANSACTION,-722.35,Loyer,2024,3,March,Sunday,13,1,Débit
+2024-04-02,AMAZON.FR,-234.78,Shopping,2024,4,April,Tuesday,14,2,Débit
+2024-04-05,ORPI GESTION LOYER MARSEILLE,-1173.09,Loyer,2024,4,April,Friday,14,2,Débit
+2024-04-09,SNCF CONNECT,-42.46,Transport,2024,4,April,Tuesday,15,2,Débit
+2024-04-13,H&M LYON,-57.89,Shopping,2024,4,April,Saturday,15,2,Débit
+2024-04-16,BURGER KING MARSEILLE,-9.03,Restaurants,2024,4,April,Tuesday,16,2,Débit
+2024-04-18,FONCIA TRANSACTION,-995.5,Loyer,2024,4,April,Thursday,16,2,Débit
+2024-04-21,VELIB METROPOLE MARSEILLE,-22.08,Transport,2024,4,April,Sunday,16,2,Débit
+2024-04-23,CENTURY 21 LOYER,-702.96,Loyer,2024,4,April,Tuesday,17,2,Débit
+2024-04-30,PARKING INDIGO,-45.81,Transport,2024,4,April,Tuesday,18,2,Débit
+2024-04-30,VIREMENT SALAIRE ENTREPRISE,3011.3408817739873,Revenus,2024,4,April,Tuesday,18,2,Crédit
+2024-05-03,PHARMACIE LAFAYETTE,-47.11,Santé,2024,5,May,Friday,18,2,Débit
+2024-05-05,UBER,-42.93,Transport,2024,5,May,Sunday,18,2,Débit
+2024-05-06,PICARD SURGELES,-61.21,Courses,2024,5,May,Monday,19,2,Débit
+2024-05-06,STATION ESSENCE,-21.53,Transport,2024,5,May,Monday,19,2,Débit
+2024-05-14,ORPI GESTION LOYER,-1094.29,Loyer,2024,5,May,Tuesday,20,2,Débit
+2024-05-14,MUSEE DU LOUVRE,-34.83,Loisirs,2024,5,May,Tuesday,20,2,Débit
+2024-05-14,NETFLIX.COM,-14.57,Abonnements,2024,5,May,Tuesday,20,2,Débit
+2024-05-15,PASS NAVIGO PARIS,-45.83,Transport,2024,5,May,Wednesday,20,2,Débit
+2024-05-18,ORPI GESTION LOYER,-1183.4,Loyer,2024,5,May,Saturday,20,2,Débit
+2024-05-21,MUSEE DU LOUVRE,-26.32,Loisirs,2024,5,May,Tuesday,21,2,Débit
+2024-05-22,EDF ENERGIE LYON,-46.35,Abonnements,2024,5,May,Wednesday,21,2,Débit
+2024-05-25,FRANPRIX,-46.98,Courses,2024,5,May,Saturday,21,2,Débit
+2024-05-26,FONCIA TRANSACTION,-1003.32,Loyer,2024,5,May,Sunday,21,2,Débit
+2024-05-28,PARC ASTERIX,-37.06,Loisirs,2024,5,May,Tuesday,22,2,Débit
+2024-05-29,VIREMENT SALAIRE ENTREPRISE,3111.107431143695,Revenus,2024,5,May,Wednesday,22,2,Crédit
+2024-05-31,CENTURY 21 LOYER,-1038.76,Loyer,2024,5,May,Friday,22,2,Débit
+2024-06-01,OPTICIEN KRYS,-105.25,Santé,2024,6,June,Saturday,22,2,Débit
+2024-06-07,CABINET MEDICAL,-106.2,Santé,2024,6,June,Friday,23,2,Débit
+2024-06-08,THEATRE CHATELET,-35.05,Loisirs,2024,6,June,Saturday,23,2,Débit
+2024-06-09,EDF ENERGIE MARSEILLE,-44.87,Abonnements,2024,6,June,Sunday,23,2,Débit
+2024-06-11,MONOPRIX,-85.11,Courses,2024,6,June,Tuesday,24,2,Débit
+2024-06-11,AMAZON PRIME LYON,-13.17,Abonnements,2024,6,June,Tuesday,24,2,Débit
+2024-06-14,RESTO ASIAT PARIS,-53.19,Restaurants,2024,6,June,Friday,24,2,Débit
+2024-06-14,DECATHLON,-89.36,Shopping,2024,6,June,Friday,24,2,Débit
+2024-06-17,DISNEY PLUS,-26.81,Abonnements,2024,6,June,Monday,25,2,Débit
+2024-06-17,NEXITY LOYER,-953.22,Loyer,2024,6,June,Monday,25,2,Débit
+2024-06-24,ZARA MARSEILLE,-228.66,Shopping,2024,6,June,Monday,26,2,Débit
+2024-06-24,RESTO ASIAT LYON,-49.09,Restaurants,2024,6,June,Monday,26,2,Débit
+2024-06-25,LABORATOIRE ANALYSES MARSEILLE,-61.85,Santé,2024,6,June,Tuesday,26,2,Débit
+2024-06-26,RESTO ASIAT,-14.65,Restaurants,2024,6,June,Wednesday,26,2,Débit
+2024-06-28,CENTURY 21 LOYER MARSEILLE,-856.48,Loyer,2024,6,June,Friday,26,2,Débit
+2024-06-28,DECATHLON,-157.77,Shopping,2024,6,June,Friday,26,2,Débit
+2024-06-28,NETFLIX.COM,-22.84,Abonnements,2024,6,June,Friday,26,2,Débit
+2024-06-30,VIREMENT SALAIRE ENTREPRISE,3365.00278472048,Revenus,2024,6,June,Sunday,26,2,Crédit
+2024-07-01,H&M,-182.24,Shopping,2024,7,July,Monday,27,3,Débit
+2024-07-03,DENTISTE DR MARTIN,-99.59,Santé,2024,7,July,Wednesday,27,3,Débit
+2024-07-05,CINEMA GAUMONT MARSEILLE,-33.74,Loisirs,2024,7,July,Friday,27,3,Débit
+2024-07-06,AMAZON PRIME,-22.09,Abonnements,2024,7,July,Saturday,27,3,Débit
+2024-07-09,BAR LE PROGRES,-54.63,Loisirs,2024,7,July,Tuesday,28,3,Débit
+2024-07-15,FONCIA TRANSACTION,-1186.18,Loyer,2024,7,July,Monday,29,3,Débit
+2024-07-16,NETFLIX.COM,-23.07,Abonnements,2024,7,July,Tuesday,29,3,Débit
+2024-07-18,ORPI GESTION LOYER,-825.9,Loyer,2024,7,July,Thursday,29,3,Débit
+2024-07-21,AMAZON.FR,-23.18,Shopping,2024,7,July,Sunday,29,3,Débit
+2024-07-22,AUCHAN,-117.52,Courses,2024,7,July,Monday,30,3,Débit
+2024-07-24,PARKING INDIGO,-5.5,Transport,2024,7,July,Wednesday,30,3,Débit
+2024-07-25,VELIB METROPOLE,-26.5,Transport,2024,7,July,Thursday,30,3,Débit
+2024-07-26,CARREFOUR CITY MARSEILLE,-91.09,Courses,2024,7,July,Friday,30,3,Débit
+2024-07-29,VIREMENT SALAIRE ENTREPRISE,2863.1148522741046,Revenus,2024,7,July,Monday,31,3,Crédit
+2024-08-02,BURGER KING LYON,-21.48,Restaurants,2024,8,August,Friday,31,3,Débit
+2024-08-05,SUPER U PARIS,-18.55,Courses,2024,8,August,Monday,32,3,Débit
+2024-08-05,PASS NAVIGO MARSEILLE,-42.3,Transport,2024,8,August,Monday,32,3,Débit
+2024-08-06,EDF ENERGIE,-44.38,Abonnements,2024,8,August,Tuesday,32,3,Débit
+2024-08-07,THEATRE CHATELET LYON,-77.37,Loisirs,2024,8,August,Wednesday,32,3,Débit
+2024-08-09,PARC ASTERIX,-78.87,Loisirs,2024,8,August,Friday,32,3,Débit
+2024-08-11,OPTICIEN KRYS,-44.32,Santé,2024,8,August,Sunday,32,3,Débit
+2024-08-16,PARKING INDIGO,-39.26,Transport,2024,8,August,Friday,33,3,Débit
+2024-08-22,CINEMA GAUMONT,-12.88,Loisirs,2024,8,August,Thursday,34,3,Débit
+2024-08-23,ORANGE MOBILE MARSEILLE,-22.23,Abonnements,2024,8,August,Friday,34,3,Débit
+2024-08-31,VIREMENT SALAIRE ENTREPRISE,3454.0509210963573,Revenus,2024,8,August,Saturday,35,3,Crédit
+2024-09-04,ORPI GESTION LOYER,-1048.8,Loyer,2024,9,September,Wednesday,36,3,Débit
+2024-09-05,NETFLIX.COM,-20.03,Abonnements,2024,9,September,Thursday,36,3,Débit
+2024-09-05,DENTISTE DR MARTIN,-30.44,Santé,2024,9,September,Thursday,36,3,Débit
+2024-09-07,STATION ESSENCE,-49.32,Transport,2024,9,September,Saturday,36,3,Débit
+2024-09-08,AUCHAN,-33.29,Courses,2024,9,September,Sunday,36,3,Débit
+2024-09-11,DECATHLON,-159.01,Shopping,2024,9,September,Wednesday,37,3,Débit
+2024-09-11,CENTURY 21 LOYER,-798.52,Loyer,2024,9,September,Wednesday,37,3,Débit
+2024-09-15,PARKING INDIGO PARIS,-34.54,Transport,2024,9,September,Sunday,37,3,Débit
+2024-09-17,PASS NAVIGO LYON,-31.14,Transport,2024,9,September,Tuesday,38,3,Débit
+2024-09-19,SPOTIFY AB,-46.22,Abonnements,2024,9,September,Thursday,38,3,Débit
+2024-09-20,H&M PARIS,-213.46,Shopping,2024,9,September,Friday,38,3,Débit
+2024-09-22,LABORATOIRE ANALYSES,-96.25,Santé,2024,9,September,Sunday,38,3,Débit
+2024-09-25,LIDL MARKET,-99.01,Courses,2024,9,September,Wednesday,39,3,Débit
+2024-09-25,ORANGE MOBILE,-13.13,Abonnements,2024,9,September,Wednesday,39,3,Débit
+2024-09-28,VIREMENT SALAIRE ENTREPRISE,3155.408204366653,Revenus,2024,9,September,Saturday,39,3,Crédit
+2024-09-29,AMAZON.FR,-32.09,Shopping,2024,9,September,Sunday,39,3,Débit
+2024-10-01,FONCIA TRANSACTION,-744.54,Loyer,2024,10,October,Tuesday,40,4,Débit
+2024-10-01,VELIB METROPOLE,-11.34,Transport,2024,10,October,Tuesday,40,4,Débit
+2024-10-02,PHARMACIE LAFAYETTE,-106.86,Santé,2024,10,October,Wednesday,40,4,Débit
+2024-10-03,FONCIA TRANSACTION LYON,-927.53,Loyer,2024,10,October,Thursday,40,4,Débit
+2024-10-11,DISNEY PLUS,-23.4,Abonnements,2024,10,October,Friday,41,4,Débit
+2024-10-14,PARKING INDIGO,-47.93,Transport,2024,10,October,Monday,42,4,Débit
+2024-10-17,ORANGE MOBILE,-22.53,Abonnements,2024,10,October,Thursday,42,4,Débit
+2024-10-17,PIZZA HUT,-27.67,Restaurants,2024,10,October,Thursday,42,4,Débit
+2024-10-21,BAR LE PROGRES PARIS,-75.59,Loisirs,2024,10,October,Monday,43,4,Débit
+2024-10-22,RESTO ASIAT PARIS,-54.87,Restaurants,2024,10,October,Tuesday,43,4,Débit
+2024-10-24,PHARMACIE LAFAYETTE,-46.72,Santé,2024,10,October,Thursday,43,4,Débit
+2024-10-26,MCDONALDS LYON,-13.57,Restaurants,2024,10,October,Saturday,43,4,Débit
+2024-10-29,FNAC SPECTACLES MARSEILLE,-33.17,Shopping,2024,10,October,Tuesday,44,4,Débit
+2024-10-29,PICARD SURGELES,-83.67,Courses,2024,10,October,Tuesday,44,4,Débit
+2024-10-31,VIREMENT SALAIRE ENTREPRISE,2839.081760302804,Revenus,2024,10,October,Thursday,44,4,Crédit
+2024-11-02,NEXITY LOYER PARIS,-994.54,Loyer,2024,11,November,Saturday,44,4,Débit
+2024-11-04,DENTISTE DR MARTIN,-77.22,Santé,2024,11,November,Monday,45,4,Débit
+2024-11-05,PARKING INDIGO MARSEILLE,-12.69,Transport,2024,11,November,Tuesday,45,4,Débit
+2024-11-08,CAFE DE FLORE,-18.47,Restaurants,2024,11,November,Friday,45,4,Débit
+2024-11-10,ORPI GESTION LOYER,-808.29,Loyer,2024,11,November,Sunday,45,4,Débit
+2024-11-10,PHARMACIE LAFAYETTE,-106.76,Santé,2024,11,November,Sunday,45,4,Débit
+2024-11-27,ORANGE MOBILE,-11.25,Abonnements,2024,11,November,Wednesday,48,4,Débit
+2024-11-28,PARC ASTERIX PARIS,-31.43,Loisirs,2024,11,November,Thursday,48,4,Débit
+2024-11-28,FRANPRIX LYON,-54.95,Courses,2024,11,November,Thursday,48,4,Débit
+2024-11-28,VIREMENT SALAIRE ENTREPRISE,3276.142486551139,Revenus,2024,11,November,Thursday,48,4,Crédit
+2024-12-05,AMAZON.FR LYON,-201.15,Shopping,2024,12,December,Thursday,49,4,Débit
+2024-12-05,PARKING INDIGO,-23.03,Transport,2024,12,December,Thursday,49,4,Débit
+2024-12-08,CABINET MEDICAL PARIS,-138.41,Santé,2024,12,December,Sunday,49,4,Débit
+2024-12-15,MUSEE DU LOUVRE,-44.8,Loisirs,2024,12,December,Sunday,50,4,Débit
+2024-12-17,CENTURY 21 LOYER LYON,-1045.38,Loyer,2024,12,December,Tuesday,51,4,Débit
+2024-12-22,CABINET MEDICAL,-109.67,Santé,2024,12,December,Sunday,51,4,Débit
+2024-12-24,BOULANGERIE PAUL,-48.51,Restaurants,2024,12,December,Tuesday,52,4,Débit
+2024-12-26,CAFE DE FLORE,-24.11,Restaurants,2024,12,December,Thursday,52,4,Débit
+2024-12-27,PIZZA HUT PARIS,-14.38,Restaurants,2024,12,December,Friday,52,4,Débit
+2024-12-28,DISNEY PLUS,-21.66,Abonnements,2024,12,December,Saturday,52,4,Débit
+2024-12-29,VIREMENT SALAIRE ENTREPRISE,3187.943100692236,Revenus,2024,12,December,Sunday,52,4,Crédit
+2024-12-31,AUCHAN,-49.14,Courses,2024,12,December,Tuesday,1,4,Débit
+2025-01-06,SUPER U PARIS,-106.65,Courses,2025,1,January,Monday,2,1,Débit
+2025-01-16,TICKET RATP MARSEILLE,-28.22,Transport,2025,1,January,Thursday,3,1,Débit
+2025-01-16,BOULANGERIE PAUL,-10.61,Restaurants,2025,1,January,Thursday,3,1,Débit
+2025-01-17,CENTURY 21 LOYER,-1083.91,Loyer,2025,1,January,Friday,3,1,Débit
+2025-01-19,NEXITY LOYER,-773.39,Loyer,2025,1,January,Sunday,3,1,Débit
+2025-01-27,EDF ENERGIE PARIS,-45.59,Abonnements,2025,1,January,Monday,5,1,Débit
+2025-01-27,ORPI GESTION LOYER LYON,-1197.0,Loyer,2025,1,January,Monday,5,1,Débit
+2025-01-27,BISTROT PARISIEN,-26.47,Restaurants,2025,1,January,Monday,5,1,Débit
+2025-01-31,VIREMENT SALAIRE ENTREPRISE,3422.1794469722354,Revenus,2025,1,January,Friday,5,1,Crédit
+2025-02-01,FRANPRIX,-99.13,Courses,2025,2,February,Saturday,5,1,Débit
+2025-02-01,TICKET RATP,-6.29,Transport,2025,2,February,Saturday,5,1,Débit
+2025-02-11,ORPI GESTION LOYER,-973.18,Loyer,2025,2,February,Tuesday,7,1,Débit
+2025-02-11,LABORATOIRE ANALYSES PARIS,-36.76,Santé,2025,2,February,Tuesday,7,1,Débit
+2025-02-12,FRANPRIX MARSEILLE,-16.45,Courses,2025,2,February,Wednesday,7,1,Débit
+2025-02-15,RESTO ASIAT,-41.37,Restaurants,2025,2,February,Saturday,7,1,Débit
+2025-02-17,DECATHLON,-62.88,Shopping,2025,2,February,Monday,8,1,Débit
+2025-02-18,NEXITY LOYER MARSEILLE,-1165.44,Loyer,2025,2,February,Tuesday,8,1,Débit
+2025-02-25,DENTISTE DR MARTIN LYON,-140.01,Santé,2025,2,February,Tuesday,9,1,Débit
+2025-02-25,GALERIES LAFAYETTE MARSEILLE,-206.01,Shopping,2025,2,February,Tuesday,9,1,Débit
+2025-02-26,NETFLIX.COM,-16.85,Abonnements,2025,2,February,Wednesday,9,1,Débit
+2025-02-27,FREE MOBILE,-49.45,Abonnements,2025,2,February,Thursday,9,1,Débit
+2025-02-28,VIREMENT SALAIRE ENTREPRISE,3468.2430406720555,Revenus,2025,2,February,Friday,9,1,Crédit
+2025-03-05,ORPI GESTION LOYER PARIS,-810.96,Loyer,2025,3,March,Wednesday,10,1,Débit
+2025-03-05,H&M,-56.99,Shopping,2025,3,March,Wednesday,10,1,Débit
+2025-03-07,LECLERC,-118.1,Courses,2025,3,March,Friday,10,1,Débit
+2025-03-08,NEXITY LOYER,-1151.69,Loyer,2025,3,March,Saturday,10,1,Débit
+2025-03-10,PARKING INDIGO MARSEILLE,-29.97,Transport,2025,3,March,Monday,11,1,Débit
+2025-03-15,NETFLIX.COM,-44.79,Abonnements,2025,3,March,Saturday,11,1,Débit
+2025-03-15,AUCHAN,-44.5,Courses,2025,3,March,Saturday,11,1,Débit
+2025-03-15,DENTISTE DR MARTIN,-35.93,Santé,2025,3,March,Saturday,11,1,Débit
+2025-03-18,SPOTIFY AB,-39.79,Abonnements,2025,3,March,Tuesday,12,1,Débit
+2025-03-19,NEXITY LOYER,-789.98,Loyer,2025,3,March,Wednesday,12,1,Débit
+2025-03-20,PICARD SURGELES,-113.45,Courses,2025,3,March,Thursday,12,1,Débit
+2025-03-23,SNCF CONNECT,-20.5,Transport,2025,3,March,Sunday,12,1,Débit
+2025-03-24,CABINET MEDICAL,-65.68,Santé,2025,3,March,Monday,13,1,Débit
+2025-03-25,FNAC SPECTACLES,-67.83,Shopping,2025,3,March,Tuesday,13,1,Débit
+2025-03-29,VIREMENT SALAIRE ENTREPRISE,3462.9826272292585,Revenus,2025,3,March,Saturday,13,1,Crédit
+2025-03-31,STATION ESSENCE,-29.86,Transport,2025,3,March,Monday,14,1,Débit
+2025-04-01,H&M,-247.18,Shopping,2025,4,April,Tuesday,14,2,Débit
+2025-04-01,CENTURY 21 LOYER,-1065.55,Loyer,2025,4,April,Tuesday,14,2,Débit
+2025-04-02,PARC ASTERIX,-54.4,Loisirs,2025,4,April,Wednesday,14,2,Débit
+2025-04-04,DENTISTE DR MARTIN,-148.1,Santé,2025,4,April,Friday,14,2,Débit
+2025-04-08,UNIQLO,-164.24,Shopping,2025,4,April,Tuesday,15,2,Débit
+2025-04-09,PARC ASTERIX,-40.9,Loisirs,2025,4,April,Wednesday,15,2,Débit
+2025-04-09,CINEMA GAUMONT,-16.62,Loisirs,2025,4,April,Wednesday,15,2,Débit
+2025-04-13,PARC ASTERIX,-48.15,Loisirs,2025,4,April,Sunday,15,2,Débit
+2025-04-14,MCDONALDS,-13.48,Restaurants,2025,4,April,Monday,16,2,Débit
+2025-04-15,UBER PARIS,-32.18,Transport,2025,4,April,Tuesday,16,2,Débit
+2025-04-20,ORPI GESTION LOYER,-738.69,Loyer,2025,4,April,Sunday,16,2,Débit
+2025-04-21,MONOPRIX MARSEILLE,-98.81,Courses,2025,4,April,Monday,17,2,Débit
+2025-04-22,AMAZON.FR,-120.67,Shopping,2025,4,April,Tuesday,17,2,Débit
+2025-04-25,BISTROT PARISIEN,-57.87,Restaurants,2025,4,April,Friday,17,2,Débit
+2025-04-25,SNCF CONNECT,-48.89,Transport,2025,4,April,Friday,17,2,Débit
+2025-04-29,VIREMENT SALAIRE ENTREPRISE,3381.4133822897597,Revenus,2025,4,April,Tuesday,18,2,Crédit
+2025-05-05,MCDONALDS,-42.91,Restaurants,2025,5,May,Monday,19,2,Débit
+2025-05-07,CENTURY 21 LOYER,-758.34,Loyer,2025,5,May,Wednesday,19,2,Débit
+2025-05-08,BOULANGERIE PAUL,-35.82,Restaurants,2025,5,May,Thursday,19,2,Débit
+2025-05-08,VELIB METROPOLE,-37.31,Transport,2025,5,May,Thursday,19,2,Débit
+2025-05-09,CARREFOUR CITY PARIS,-55.36,Courses,2025,5,May,Friday,19,2,Débit
+2025-05-13,THEATRE CHATELET,-68.64,Loisirs,2025,5,May,Tuesday,20,2,Débit
+2025-05-16,ORANGE MOBILE,-33.91,Abonnements,2025,5,May,Friday,20,2,Débit
+2025-05-18,MCDONALDS,-34.92,Restaurants,2025,5,May,Sunday,20,2,Débit
+2025-05-19,PASS NAVIGO PARIS,-40.09,Transport,2025,5,May,Monday,21,2,Débit
+2025-05-20,H&M,-205.6,Shopping,2025,5,May,Tuesday,21,2,Débit
+2025-05-21,BISTROT PARISIEN,-17.4,Restaurants,2025,5,May,Wednesday,21,2,Débit
+2025-05-22,ORANGE MOBILE MARSEILLE,-33.04,Abonnements,2025,5,May,Thursday,21,2,Débit
+2025-05-22,FRANPRIX,-83.64,Courses,2025,5,May,Thursday,21,2,Débit
+2025-05-25,ORPI GESTION LOYER,-780.52,Loyer,2025,5,May,Sunday,21,2,Débit
+2025-05-26,LABORATOIRE ANALYSES PARIS,-134.9,Santé,2025,5,May,Monday,22,2,Débit
+2025-05-31,VIREMENT SALAIRE ENTREPRISE,3094.3331720266483,Revenus,2025,5,May,Saturday,22,2,Crédit
+2025-06-01,PASS NAVIGO,-25.57,Transport,2025,6,June,Sunday,22,2,Débit
+2025-06-04,LECLERC PARIS,-92.65,Courses,2025,6,June,Wednesday,23,2,Débit
+2025-06-06,BAR LE PROGRES,-31.43,Loisirs,2025,6,June,Friday,23,2,Débit
+2025-06-07,AUCHAN LYON,-102.45,Courses,2025,6,June,Saturday,23,2,Débit
+2025-06-12,STATION ESSENCE PARIS,-9.94,Transport,2025,6,June,Thursday,24,2,Débit
+2025-06-13,MONOPRIX,-74.12,Courses,2025,6,June,Friday,24,2,Débit
+2025-06-14,BISTROT PARISIEN PARIS,-59.79,Restaurants,2025,6,June,Saturday,24,2,Débit
+2025-06-20,H&M LYON,-49.2,Shopping,2025,6,June,Friday,25,2,Débit
+2025-06-20,FNAC SPECTACLES,-21.71,Shopping,2025,6,June,Friday,25,2,Débit
