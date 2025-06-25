@@ -5,6 +5,7 @@
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-green.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
+![Docker](https://img.shields.io/badge/docker-ready-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
 
 **🚀 Application d'Analyse Financière de Niveau Professionnel**
@@ -19,7 +20,7 @@
 
 L'Assistant d'Épargne Intelligent est une **application complète d'analyse financière de niveau professionnel** développée en Python avec Streamlit. Cette solution avancée utilise des techniques d'**intelligence artificielle**, de **machine learning** et de **visualisation de données** pour transformer vos données bancaires en insights actionnables.
 
-🚀 **Version 2.0** - Maintenant avec fonctionnalités avancées d'IA, interface moderne responsive, système de filtrage sophistiqué, et analyses prédictives de pointe !
+🚀 **Version 2.0** - Maintenant avec fonctionnalités avancées d'IA, interface moderne responsive, système de filtrage sophistiqué, et analyses prédictives de pointe, et **support Docker complet** !
 
 ### 🎯 **Vision du Projet**
 
@@ -36,6 +37,7 @@ Créer un assistant financier personnel intelligent qui :
 - 🌟 **100% Open Source** et entièrement personnalisable
 - 🧠 **IA/ML intégrée** pour l'analyse prédictive avancée
 - 🎨 **Interface moderne** avec 4 thèmes et animations fluides
+- 🐳 **Docker ready** pour déploiement facile et portable
 - 🔒 **Sécurité maximale** (données fictives réalistes uniquement)
 - 📦 **Architecture modulaire** extensible et maintenable
 - 📱 **Responsive design** mobile-first avec breakpoints optimisés
@@ -101,18 +103,58 @@ Créer un assistant financier personnel intelligent qui :
 
 ## 🚀 Installation et Utilisation
 
-### 🔧 Prérequis Système
+### 🐳 Option 1 : Docker (Recommandé)
+
+**Installation la plus simple et portable !**
+
+#### Prérequis
+- Docker et Docker Compose installés
+- 2GB RAM disponible
+
+#### Lancement rapide
+```bash
+# Cloner le projet
+git clone https://github.com/votre-repo/assistant-epargne-intelligent.git
+cd assistant-epargne-intelligent
+
+# Linux/Mac
+chmod +x run_docker.sh
+./run_docker.sh
+
+# Windows
+run_docker.bat
+```
+
+🌐 L'application sera disponible sur **http://localhost:8501**
+
+#### Commandes Docker utiles
+```bash
+# Voir les logs
+docker-compose logs -f
+
+# Arrêter l'application
+docker-compose down
+
+# Redémarrer
+docker-compose restart
+```
+
+📖 **[Documentation Docker complète →](DOCKER_README.md)**
+
+### 🔧 Option 2 : Installation Native
+
+#### Prérequis Système
 - **Python** 3.8 ou supérieur (recommandé: 3.10+)
 - **Mémoire** : 2GB RAM minimum (4GB recommandé)
 - **Espace disque** : 500MB pour les dépendances
 - **Navigateur** : Chrome, Firefox, Safari, Edge (dernières versions)
 
-### ⚡ Installation Rapide
+#### Installation Rapide
 
 1. **📥 Cloner le projet**
 ```bash
-git clone https://github.com/votre-repo/dashboard_ia_epargne.git
-cd dashboard_ia_epargne
+git clone https://github.com/votre-repo/assistant-epargne-intelligent.git
+cd assistant-epargne-intelligent
 ```
 
 2. **🛠️ Créer un environnement virtuel (recommandé)**
@@ -128,7 +170,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-### 🚀 Lancement de l'Application
+#### Lancement de l'Application
 
 ```bash
 streamlit run app.py
@@ -197,7 +239,7 @@ dashboard_ia_epargne/
 - 🎯 Simulateur de budgets interactif
 
 #### `ui_enhancements.py` - **Améliorations Interface et Thèmes**
-- �� Nouveau thème
+- 🎨 Nouveau thème
 - 🤖 Widgets personnalisés
 
 #### `dashboard_advanced.py` - **Dashboard Avancé et Métriques Pro**

@@ -1,0 +1,50 @@
+# Fichiers Git
+.git
+.gitignore
+
+# Environnements virtuels Python
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+*.md
+README.md
+
+# Logs
+*.log
+
+# Tests
+tests/
+test_*.py
+
+# Données temporaires
+*.tmp
+*.bak
+
+# Cache Streamlit
+.streamlit/ 
